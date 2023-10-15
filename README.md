@@ -24,8 +24,5 @@ Ensure your database contains the following tables with respective fields:
 - `locations`: Provides details about locations associated with submissions.
 - `projects`: Project-related data.
 
-## Note
-Make sure to populate the respective mappings for mobile carriers to countries in the innermost CASE statements of the SQL script.
-
 ## Contribution
 Feel free to raise issues or PRs if you think some part of the logic can be improved or if there are any discrepancies in the results.
